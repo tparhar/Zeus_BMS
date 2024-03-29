@@ -20,6 +20,7 @@
 #define Bat_Pin A4
 #define Res_Pin A5
 
+// Hello
 U8GLIB_SH1106_128X64 u8g(U8G_I2C_OPT_NONE);  // I2C interface for OLED 
 float Capacity = 0.0; // total capacity of batteries?
 float Res_Value = 8.0;  // pretty sure the resistor we're using is 8 ohms
