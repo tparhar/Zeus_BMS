@@ -14,7 +14,8 @@
 #define MOSFET_Pin 6
 #define Bat_Pin A0
 #define Bat_Pin A1
-#define Bat_Pin A2
+#define Bat_Pin A2  
+
 #define Bat_Pin A3
 #define Bat_Pin A4
 #define Res_Pin A5
